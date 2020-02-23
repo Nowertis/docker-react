@@ -20,6 +20,3 @@ deply:
     branch: master
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
-
-  
-  http://dockerreact-env.kin4vczkkp.us-east-2.elasticbeanstalk.com/
